@@ -17,7 +17,7 @@ export const info = [
         tasks: ["Create, edit and close projects.  ", "Managed permissions to access and edit projects and advances. ", "Manage  state and visibility  of  projects and advances."],
         sourcecode: "https://github.com/victoriaycode/Front-end-project-manager",
         "img": "https://res.cloudinary.com/dwjdp1hgt/image/upload/v1647670623/login_r4fhea.png",
-        "link": "",
+        "link": "https://projectu-manager.herokuapp.com/login",
         "technologies": ["React.js", "Tailwindcss", "GraphQL", "MongoDB", "MERN"],
     },
     /*{"title":"Ecommerce-store",

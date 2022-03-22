@@ -1,5 +1,5 @@
 {
-  "name": "my_portfolio",
+  "name": "my_portfolio_web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,5 +42,5 @@
     "gh-pages": "^3.2.3",
     "tailwindcss": "^3.0.23"
   },
-  "homepage": "https://victoriaycode.github.io/my_portfolio"
+  "homepage": "https://victoriaycode.github.io/my_portfolio_web"
 }
